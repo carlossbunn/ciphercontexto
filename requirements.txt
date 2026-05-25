@@ -1,0 +1,18 @@
+# =============================================================================
+# Python >= 3.9 recomendado
+# Instalação: pip install -r requirements.txt
+# =============================================================================
+
+# --- Deep Learning & Modelos ---
+torch>=2.1.0
+transformers>=4.40.0
+accelerate>=0.28.0
+
+# --- Progresso & Utilitários ---
+tqdm>=4.66.0
+
+# --- Dados ---
+pandas>=2.0.0
+
+# --- Padrão (geralmente já presentes, listados para ambientes limpos) ---
+# json, csv, re, hashlib, logging, argparse → stdlib, não precisam de pip
